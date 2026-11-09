@@ -31,3 +31,9 @@
 
 ## День 5 (Автономный отчет)
 Ошибка связи с мозгом: {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+
+--- 
+
+## День 6 (Автономный отчет)
+Ошибка связи с мозгом: {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
